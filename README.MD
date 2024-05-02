@@ -6,6 +6,10 @@ script to do this.
 
 use at your own risk
 
+## Note [PyCharm](https://www.jetbrains.com/pycharm/)
+
+This was designed to work out of the box with [PyCharm](https://www.jetbrains.com/pycharm/) it automatically picks up the virtual env created.
+
 # Add to env path
 
 Add the directory to your PATH: Add the directory containing your script to your system's PATH environment variable.
@@ -25,3 +29,5 @@ once added to the env path you can just call it with the name of the new project
 right where you are 
 
     create_project new_project_name
+
+
