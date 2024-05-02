@@ -6,7 +6,7 @@ script to do this.
 
 use at your own risk
 
-# run it 
+# Add to env path
 
 Add the directory to your PATH: Add the directory containing your script to your system's PATH environment variable.
 
@@ -19,3 +19,9 @@ On Windows:
 - Add the path to your directory containing the script (e.g., C:\Users\YourUsername\scripts) to the list of paths.
 - Click OK on all windows to close them.
 
+# run it
+
+once added to the env path you can just call it with the name of the new project and it will create a new directory  
+right where you are 
+
+    create_project new_project_name
